@@ -31,6 +31,7 @@ target/**
 
 # MAC
 **/.DS_Store
+config.properties
 
 persistence.xml
 
